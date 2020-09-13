@@ -9,4 +9,4 @@
 - :pencil2::books: I’m looking to collaborate on any Python/Django project...
 - 📫 Reach me by my email or twitter
 - :airplane: I like traveling.
-- :speaker:listening to music.
+- :speaker:I listen to Disco,the sound of Guitar and Piano take me back home :heart:.
