@@ -2,9 +2,13 @@
 ### :sparkles::sparkles: Hi there I'm Ngazetungue Muheue :sparkles::sparkles:
 
 - 🇳🇦I'm based in Windhoek, Namibia...
-- I'm Python Software Foundation Fellow, Individual member of Django Software Foundation and Django Namibia community Chair.
-- I'm [Python Namibia](pynam.org/), [PyCon Namibia](https://na.pycon.org/) and [PyCon Africa](https://africa.pycon.org/)
-- 🎤If you’d like me to speak at your event, get in touch for details.🎤
+- I'm [Python Namibia](http:/pynam.org/), [PyCon Namibia](https://na.pycon.org/) board member
+- I am the co-founder of the Python and Django communities in Namibia.
+- Organiser of PyCon Namibia since 2016 till today.
+- I like contributing to open source projects, lets build tech community together
+- I have been recognized by the Python Software Foundation as a Fellow for my contribution to the Python ecosystem around the world and I am an Individual member of [DSF](https://www.djangoproject.com/foundation/).
+
+- 🎤If you’d like me to speak at your event, build tech community together, get in touch for details.🎤
 - :pencil2::books: I’m looking to collaborate on any Python/Django project.
-- :airplane: I like traveling. Please take me to Namib Desert..🇳🇦
-- :speaker:I listen to Disco,the sound of Guitar and Piano take me back home :heart:.
+- :airplane: I like traveling.
+- :speaker:I listen to Disco,the sound of Guitar and Piano. :heart:.
