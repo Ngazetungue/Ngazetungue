@@ -2,7 +2,7 @@
 ### :sparkles::sparkles: Hi there I'm Ngazetungue Muheue :sparkles::sparkles:
 
 - 🇳🇦I'm based in Windhoek, Namibia...
-- I'm [Python Namibia](http:/pynam.org/), [PyCon Namibia](https://na.pycon.org/) board member
+- I'm [Python Namibia](http://www.pythonnamibia.org/), [PyCon Namibia](https://na.pycon.org/) board member
 - I am the co-founder of the Python and Django communities in Namibia.
 - Organiser of PyCon Namibia since 2016 till today.
 - I like contributing to open source projects, lets build tech community together
