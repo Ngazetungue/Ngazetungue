@@ -10,7 +10,7 @@
 * 🐧 Active contributor and supporter of open source projects, including Ubuntu
 
 📲 **Connect with me on social media:**
-    • [Twitter]([https://twitter.com/](https://x.com/muheuenga)
+    • [Twitter](https://x.com/muheuenga/)
     • [LinkedIn](https://www.linkedin.com/in/ngazetungue-muheue/)
 
 🎤 **Interested in collaborating on tech community projects or looking for a speaker?** I’d love to connect!
