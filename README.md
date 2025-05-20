@@ -42,8 +42,8 @@
 • 🌍 **Based in** Windhoek, Namibia  
 • 🏢 Board Member/Co-founder of [Python Namibia](http://www.pythonnamibia.org/) • [PyCon Namibia](https://na.pycon.org/)  
 • 🎉 **Lead Organizer** of PyCon Namibia since 2016  
-• 🌍 Organizer of [PyCon Africa](https://africa.pycon.org) • [DjangoCon Africa](https://2025.djangocon.africa/)  
-• 🌐 Contributor to [EuroPython 2025](https://ep2025.europython.eu/), [DjangoCon Europe 2023](https://2023.djangocon.eu/)  
+• 🌍 Co-founder and Organizer of [PyCon Africa](https://africa.pycon.org) • [DjangoCon Africa](https://2025.djangocon.africa/)  
+• 🌐 Contributor/Volunteer to [EuroPython 2025](https://ep2025.europython.eu/), [DjangoCon Europe 2023](https://2023.djangocon.eu/)  
 • 🐧 Open Source Contributor (Ubuntu, Python, Django)  
 
 </div>
@@ -51,12 +51,13 @@
 ### <div align="center">🌍 Global Speaker & Community Builder</div>
 <div align="center">
 
-✈️ **International Conference Speaker** at tech events across 4 continents:  
+✈️ **International Conference Speaker** at tech events across 3 continents:  
 🇬🇭 Ghana • 🇬🇧 UK • 🇨🇿 Czech Republic • 🇳🇱 Netherlands • 🇺🇸 USA  
 
 🌐 **Community Support**:  
-• Mentored 50+ developers globally  
-• Bridged African and Global Python communities  
+• Mentored 100+ upcoming developers globally  
+• Bridged African and Global Python communities
+• Member of Ubuntu communities  
 
 </div>
 ---
