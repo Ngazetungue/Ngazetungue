@@ -31,6 +31,7 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-092E20.svg?style=for-the-badge&logo=PyCharm&logoColor=white)
 
 </div>
 
@@ -57,6 +58,7 @@
 🌐 **Community Support**:  
 • Mentored 100+ upcoming developers globally  
 • Bridged African and Global Python communities
+
 • Member of Ubuntu communities  
 
 </div>
